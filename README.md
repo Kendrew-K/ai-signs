@@ -27,3 +27,7 @@ Restart Claude Code. The skill loads on its own whenever Claude is about to writ
 ## Credits
 
 The sentence-level patterns are adapted from [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop). Several UI and color checks come from a Fountain Institute article on AI design tells.
+
+## License
+
+MIT. Use it, fork it, change it.
